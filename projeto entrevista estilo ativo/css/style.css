@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+body {
+    background-image: url(fundo2.png);
+    background-color: rgb(206, 206, 206);
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+}
+
+#navbarNavDropdown {
+    margin-left: 5%;
+}
+
+.direitos {
+    color: #fff;
+    display: flex;
+    margin-top: 5rem;
+    justify-content: center;
+    text-align: center;
+    background: transparent;
+}
+.card {
+    background-color: aliceblue;
+    margin: 15px;
+    height: 90%;
+    
+}
+
